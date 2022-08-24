@@ -1,0 +1,21 @@
+https://en.wikipedia.org/wiki/Levenshtein_distance
+https://en.wikipedia.org/wiki/Phonetic_algorithm
+https://www.scitepress.org/papers/2016/59263/59263.pdf
+https://www.researchgate.net/figure/List-of-Phonetically-Similar-Word-Pairs-and-Phonetically-Dissimilar-Words_tbl1_258349749
+https://homes.cs.washington.edu/~bhixon/papers/phonemic_similarity_metrics_Interspeech_2011.pdf
+https://www.ateam-oracle.com/post/utl_match-and-soundex-for-fuzzy-matching-of-data-in-an-oracle-database
+http://spell.psychology.wustl.edu/PhonCompAlgorithms/trps_022.pdf
+https://amitg0161.medium.com/phonetic-hashing-and-soundex-in-python-60d4ca7a2843
+https://ijarcce.com/wp-content/uploads/2012/05/Analysis-of-Phonetic-Matching-Approaches-for-Indic-Languages.pdf
+https://ijarcce.com/wp-content/uploads/2012/05/Analysis-of-Phonetic-Matching-Approaches-for-Indic-Languages.pdf
+https://www.sciencedirect.com/science/article/pii/0304397592901434/pdf?md5=db1d98f20e0fed3adf2c9df9bf0623c1&pid=1-s2.0-0304397592901434-main.pdf
+
+Mostly related to confidence score: Note: could use scoring system?
+https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance
+https://webfiles.blackbaud.com/files/support/helpfiles/altru/help/content/crmsearchalgorithm.html
+https://cs.stackexchange.com/questions/81371/nlp-phonetic-edit-distance-between-a-word-and-the-closest-of-a-set-of-words
+https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm#Choosing_a_scoring_system
+https://en.wikipedia.org/wiki/Match_rating_approach
+https://en.wikipedia.org/wiki/Phonetic_algorithm
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.396.4647&rep=rep1&type=pdf
+https://towardsdatascience.com/how-to-use-confidence-scores-in-machine-learning-models-abe9773306fa
